@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "QDNAseq Genome Integrity: copy number QC for low-pass whole-genome sequencing"
+version: 1.0.1
+date-released: 2026-08-20
+authors:
+  - family-names: "Hynds"
+    given-names: "Robert E."
+    affiliation: "University College London"
+    orcid: "https://orcid.org/0000-0002-2170-8791"
+repository-code: "https://github.com/EpiCENTR-Lab/QDNAseq-Genome-Integrity"
+url: "https://github.com/EpiCENTR-Lab/QDNAseq-Genome-Integrity"
+license: MIT
+keywords:
+  - QDNAseq
+  - copy number
+  - genome integrity
+  - low-pass whole-genome sequencing
+  - stem cell quality control
+  - sex chromosome ploidy correction
+abstract: >
+  A command-line pipeline for genome integrity QC from low-pass whole-genome
+  sequencing BAM files, built on QDNAseq. Produces genome-wide copy number
+  plots and per-sample QC summaries, with automatic sex-chromosome (XX/XY)
+  ploidy correction so that normal samples of either sex sit at the expected
+  diploid baseline on chrX and chrY.
+preferred-citation:
+  type: software
+  title: "QDNAseq Genome Integrity: copy number QC for low-pass whole-genome sequencing"
+  version: 1.0.1
+  date-released: 2026-08-20
+  authors:
+    - family-names: "Hynds"
+      given-names: "Robert E."
+      affiliation: "University College London"
+      orcid: "https://orcid.org/0000-0002-2170-8791"
+  repository-code: "https://github.com/EpiCENTR-Lab/QDNAseq-Genome-Integrity"
