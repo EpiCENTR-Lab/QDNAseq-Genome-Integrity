@@ -1,4 +1,4 @@
-# EpiCENTR — Genome Integrity QC with QDNAseq
+# EpiCENTR — Checking genome integrity using low-pass whole-genome sequencing and QDNAseq
 
 ## Overview
 
@@ -212,7 +212,7 @@ Records software versions and command used to run the pipeline.
 
 ## Recommended Sequencing Parameters
 
-- Coverage: 0.2×–1×
+- Coverage: 0.2×–5×
 - Read length: 75–150 bp
 - Paired-end sequencing preferred
 - Reference genome: hg38 recommended
