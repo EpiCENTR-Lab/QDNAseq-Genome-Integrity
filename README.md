@@ -1,4 +1,4 @@
-# EpiCENTR — Checking genome integrity using low-pass whole-genome sequencing and QDNAseq
+# Checking genome integrity using low-pass whole-genome sequencing and QDNAseq
 
 ## Overview
 
